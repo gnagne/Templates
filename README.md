@@ -1,2 +1,2 @@
 # Templates
-Generation de Modèles de déploiements de Switc et routeurs IDI/IRB
+Génération de Modèles de déploiements de Switc et routeurs IDI/IRB
